@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "epson.com",
+        "epson.com.cn",
+        "print.epsonconnect.com",
+        "print.rpt.epson.com.cn",
+        "116cd.cn",
+        "116cd.com",
+        "116cd.net",
+        "anxia.com",
+        "sq.cc"
+      ]
+    }
+  ]
+}
